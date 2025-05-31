@@ -3,11 +3,11 @@
 
 > Advanced Web Pentesting Tool by Bangladesh Cyber Squad 🇧🇩
 
-╔══════════════════════════════════════╗
-║  ***WEB VULNERABILITY SCANNER***            ║
-║        Developed by Parvez Hasan            ║
-║  **Team: Bangladesh Cyber Squad**           ║
-╚══════════════════════════════════════╝
+
+***WEB VULNERABILITY SCANNER***            
+       Developed by Parvez Hasan            
+**Team: Bangladesh Cyber Squad**           
+
 
 ---
 
